@@ -15,7 +15,7 @@ Because this game is a .html file, it will play on any device* that has a web br
 
 ## Downloads
 
-This game is not yet ready for downloading. Check back frequently for a spooky surprise within the next few weeks!
+This game is not yet ready for downloading. Check https://beseng.itch.io/ghost-stories-abq for a spooky surprise in a few weeks!
 
 ## Contact
 
